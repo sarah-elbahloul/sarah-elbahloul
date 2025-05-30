@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software De
 
 ---
 ### 🧑‍💻 Projects
-- 🔭 I’m currently working on **Smart Suitcase** a travel packing assistant app
+I’m currently working on **Smart Suitcase** a travel packing assistant app
 
 ### 🧰 Skills
 
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software De
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-_And more..._
+
 
 ### 🌐 Connect with Me
 
@@ -39,6 +39,3 @@ _And more..._
 - 💼 LinkedIn: [linkedin.com/in/sarah-elbahloul](https://linkedin.com/in/sarah-elbahloul)  
 - 💻 GitHub: [github.com/sarah-elbahloul](https://github.com/sarah-elbahloul)
 
----
-
-_Thank you for visiting my profile! Let’s build something amazing together._
