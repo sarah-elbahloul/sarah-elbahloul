@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sarah Elbahloul
 
-Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software Developer** and a love for building useful, scalable, and open-source projects
+Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software Developer** with a love for building useful, scalable, and open-source projects
 
 ---
 ### 🎓 Education
