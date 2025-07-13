@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate and detail-oriented **Software De
 
 ---
 ### 🧑‍💻 Projects
-I’m currently working on **Smart Suitcase** a travel packing assistant app
+I’m currently working on **TripTidy** a travel assistant app
 
 ### 🧰 Skills
 
